@@ -1,0 +1,9 @@
+<suite name="BA">
+    <test name="YeahBro" parallel = "methods" thread-count = "1">
+        <!--    <test name="AperJan" parallel = "methods" thread-count = "2">-->
+        <classes>
+            <class name="TestAuthPractic">
+            </class>
+        </classes>
+    </test>
+</suite>
